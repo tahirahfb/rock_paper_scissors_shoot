@@ -57,3 +57,12 @@ if (player1score === playUntil){
 
 
 console.log(playGame(challenger1, challenger2, 5));
+
+module.exports = {
+    hands,
+    getHand,
+    playRound,
+    challenger1,
+    challenger2,
+    playGame
+};

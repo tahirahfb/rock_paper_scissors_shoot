@@ -1,0 +1,22 @@
+{
+  "name": "rock-paper-scissors-shoot",
+  "version": "1.0.0",
+  "description": "Implement Testing",
+  "main": "rock_paper_scissors_shoot.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tahirahfb/rock_paper_scissors_shoot.git"
+  },
+  "author": "Tahirah Farrer-Bradley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tahirahfb/rock_paper_scissors_shoot/issues"
+  },
+  "homepage": "https://github.com/tahirahfb/rock_paper_scissors_shoot#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
